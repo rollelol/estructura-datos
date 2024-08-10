@@ -4,7 +4,14 @@ public class Inicio {
 
     public static void main(String[] args){
 
-        int edad = 22;
+        int x = 22;
+
+        if(x >= 18){
+            System.out.println("Es mayor de edad");
+        }
+        else {
+            System.out.println("Eres menor de edad");
+        }
 
 
     }
