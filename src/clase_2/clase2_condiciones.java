@@ -5,7 +5,6 @@ public class clase2_condiciones {
     public static void main (String[] args){
 
         System.out.println("Bienvenido a tu programa");
-        String lista [] = new String[5];
         Scanner sc = new Scanner (System.in);
 
         System.out.println("Ingrese un numero 1:");
