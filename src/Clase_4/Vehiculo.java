@@ -6,17 +6,12 @@ public class Vehiculo {
         return Marca;
     }
 
-    public void setMarca(String marca) {
-        Marca = marca;
-    }
 
     public String getCombustible() {
         return Combustible;
     }
 
-    public void setCombustible(String combustible) {
-        Combustible = combustible;
-    }
+
 
     private String Marca;
     private String Combustible;
